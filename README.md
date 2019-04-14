@@ -8,8 +8,8 @@ Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app w
 
 ## Output Video
 I have created a short video to show the output of this repository
-https://www.loom.com/share/7235f59bbe98480ab9b7792ac43a73d8
+https://www.loom.com/share/c6a6c004c3c04703909b3cc35cbf37d9
 
 ## Screenshot
-![Screenshot of Angular 7 Calculator](https://user-images.githubusercontent.com/15896579/56090298-38b9ab00-5ebe-11e9-8d58-ae0107de176a.PNG?raw=true "Screenshot of Angular 7 Calculator")
+![Screenshot of Angular 7 Calculator](https://user-images.githubusercontent.com/15896579/56090401-7bc84e00-5ebf-11e9-99bb-aecb5a043aed.PNG?raw=true "Screenshot of Angular 7 Calculator")
 
