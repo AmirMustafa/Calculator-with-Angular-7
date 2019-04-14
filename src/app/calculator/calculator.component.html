@@ -1,0 +1,23 @@
+<div class="card">
+	<div class="card-header">CALCULATOR</div>
+	<div class="card-body">
+		<div class="form-group">
+			<div class="form-group d-flex flex-row"><!-- d-flex makes i/p side by side - Bootrap4 -->
+				<input [(ngModel)]='num1' type="number" name="num1" class="form-control"> &nbsp;&nbsp;&nbsp;
+				<input [(ngModel)]='num2' type="number" name="num2" class="form-control">
+			</div>
+		</div>
+		<div class="">
+			<br>
+			<button class="btn btn-success" (click) = 'sum()'> SUM </button>&nbsp;&nbsp;&nbsp;
+			<button class="btn btn-success" (click) = 'diff()'> DIFF </button>&nbsp;&nbsp;&nbsp;
+			<button class="btn btn-success" (click) = 'mult()'> MULT </button>&nbsp;&nbsp;&nbsp;
+			<button class="btn btn-success" (click) = 'div()'> DIV </button>
+			<br><br><br>
+		</div>
+		<div class="card-footer">
+			<h6>{{resultheading}}</h6>
+			<h4>You result: {{result}}</h4>
+		</div>
+	</div>
+</div>
